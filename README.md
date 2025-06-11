@@ -1,5 +1,6 @@
 # 3D Garden 
 
+![Game Screenshot](image.png)
 # Build instructions
 
 ## Requirements
