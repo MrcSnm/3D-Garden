@@ -1,5 +1,8 @@
 {
   "name": "sett",
+  "engines": {
+    "node": "20.12.2"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

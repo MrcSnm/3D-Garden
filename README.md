@@ -1,4 +1,24 @@
 # 3D Garden 
+
+# Build instructions
+
+## Requirements
+
+- npm v10.5.0
+- node: v20.12.2
+
+## Build Commands
+Execute the commands in the following order:
+
+```sh
+npm i
+npm run build
+npm run dev # Optionally use that one, it will also serve the build directory so you can test at 127.0.0.1:8000
+```
+
+
+## Meta information
+
 This project was made using the following tech stack
 
 - ThreeJS
